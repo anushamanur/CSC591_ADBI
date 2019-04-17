@@ -12,4 +12,4 @@ The approach ised is based on the following paper  - [U-Net: Convolutional Netwo
 
 ## Model
 Below is a picture of the model (from U-net paper) used to solve the segmentation task.
-<img src = 'unet.png' height = '230px'>
+<img src = 'unet.png'>
