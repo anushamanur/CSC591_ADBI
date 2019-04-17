@@ -17,7 +17,7 @@ gensim \
 sudo pip3 install -U nltk \
 sudo pip3 install -U gensim \
 
-## Instructions to run the program:
+## Instructions to run the program
 1. Go the the directory containing the python script. \
 2. Make sure the data folder is in the same location \
 
