@@ -9,13 +9,13 @@ logistic regression , Naive Bayes classifier
 ## Tools
 
 Python version used: Python 3.5 \
-Python libraries needed: \
-* nltk \
+Python libraries needed: 
+* nltk 
 * gensim 
 
 ## Installation instructions
-sudo pip3 install -U nltk \
-sudo pip3 install -U gensim \
+sudo pip3 install -U nltk 
+sudo pip3 install -U gensim 
 
 ## Instructions to run the program
 1. Go the the directory containing the python script. \
