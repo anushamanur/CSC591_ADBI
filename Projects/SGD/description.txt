@@ -1,0 +1,15 @@
+Stochastic Gradient Descent for Logistic Regression or with L2-regularization
+
+Stochastic Gradient Descent
+
+Your are tasked to implement one of the two functions below (in Python):
+
+1) Stochastic Gradient Descent (SGD) for the linear regression problem with L2-regularization
+
+ or
+
+2) SGD for the Logistic Regression problem
+
+You should also include the Driver program and the Unite Test function that calls and tests your SGD function
+
+    Submit a single zip folder called (First_LastName.zip). Include both ipynb Jupyter Notebook and HTML files of running the notebook along with any data set used to test the program.
