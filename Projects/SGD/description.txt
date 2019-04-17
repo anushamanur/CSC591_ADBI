@@ -1,2 +1,2 @@
-Stochastic Gradient Descent for Linear Regression with L2-regularization
+### Stochastic Gradient Descent for Linear Regression with L2-regularization
 
