@@ -18,8 +18,8 @@ sudo pip3 install -U nltk
 sudo pip3 install -U gensim 
 
 ## Instructions to run the program
-1. Go the the directory containing the python script. \
-2. Make sure the data folder is in the same location \
+1. Go the the directory containing the python script. 
+2. Make sure the data folder is in the same location 
 
 
 python3 sentiment_solution.py data/imdb/ nlp \
